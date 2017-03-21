@@ -1,0 +1,26 @@
+header {
+    background-color: #244751;
+    color: #E8FDFF;
+    font-family: fantasy;
+}
+
+body {
+    background-color: lightcyan;
+}
+
+main {
+    background-color: white;
+    padding: 15px;
+}
+
+.post {
+    margin-bottom: 48px;
+}
+
+.post .user-info img {
+    border-radius: 50%;
+}
+
+:hover .user-info img {
+    outline: dotted red;
+}

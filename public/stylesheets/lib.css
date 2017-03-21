@@ -2,8 +2,9 @@
   box-sizing: border-box;
 }
 
+
 body, input {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Droid Serif', serif;
   margin: 0;
   color: #244751;
 }
@@ -29,6 +30,7 @@ header {
   overflow: hidden;
   display: flex;
   align-items: baseline;
+
 }
 
 header > .login-info {
